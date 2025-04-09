@@ -1,5 +1,3 @@
-﻿using System.Reflection.Metadata.Ecma335;
-
 Console.WriteLine("1. Celsjusz \n2. Fahrenheit \n3. Kelvin");
 Console.Write("Wybierz skalę wejściową: ");
 int wejsciowa;
